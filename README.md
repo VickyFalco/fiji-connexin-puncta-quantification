@@ -4,7 +4,7 @@ DOI: 10.5281/zenodo.19067481
 
 Macro for quantification of connexin (Cx) puncta in fluorescence microscopy images using Fiji (ImageJ).
 
-Author: Victoria Falco
+Authors: Victoria Falco; Constanza Silvera; Tabaré de los Campos
 
 ## Description
 
