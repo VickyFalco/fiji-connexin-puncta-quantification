@@ -1,4 +1,5 @@
 # fiji-connexin-puncta-quantification
+DOI: 10.5281/zenodo.19067481
 # Connexin puncta quantification macro for Fiji
 
 Macro for quantification of connexin (Cx) puncta in fluorescence microscopy images using Fiji (ImageJ).
