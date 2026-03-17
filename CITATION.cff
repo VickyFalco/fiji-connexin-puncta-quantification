@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Connexin puncta quantification macro for Fiji"
+message: "If you use this software, please cite it as below."
+type: software
+
+doi: 10.5281/zenodo.19067481
+
+authors:
+  - family-names: Falco
+    given-names: Victoria
+
+  - family-names: Silvera
+    given-names: Maria Constanza
+
+  - family-names: De los Campos
+    given-names: Tabaré
+
+version: 1.0
+date-released: 2026-03-17
+
+repository-code: "https://github.com/TU_USUARIO/NOMBRE_REPO_CONEXINAS"
+
+keywords:
+  - Fiji
+  - ImageJ
+  - connexins
+  - Cx43
+  - Cx26
+  - image analysis
+  - puncta quantification
