@@ -53,7 +53,7 @@ If you use this macro please cite:
 
 Falco V. (2026)  
 Connexin puncta quantification macro for Fiji  
-https://doi.org/XXXXX
+DOI: 10.5281/zenodo.19067481
 
 ## License
 
