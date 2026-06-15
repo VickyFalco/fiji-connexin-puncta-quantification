@@ -51,7 +51,7 @@ v1.0 – Initial release
 
 If you use this macro please cite:
 
-Falco V. (2026)  
+Falco V. et al (2026)  
 Connexin puncta quantification macro for Fiji  
 DOI: 10.5281/zenodo.19067481
 
